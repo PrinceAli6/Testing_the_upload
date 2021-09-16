@@ -1,0 +1,25 @@
+
+
+.inner_title{
+    font-family: 'Oswald';
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.paragraph{
+    font-family: 'Noto Sans';
+}
+
+.imp {
+    color: red;
+}
+
+#note{
+    font-size: smaller;
+}
